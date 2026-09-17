@@ -32,7 +32,7 @@ This project simulates a simple social media profile system called InstaGoose. U
 Make sure Python 3 is installed, then run:
 
 ```bash
-python instagoose.py
+python instagoose.py'''
 
 ## Course Project
 
