@@ -33,3 +33,7 @@ Make sure Python 3 is installed, then run:
 
 ```bash
 python instagoose.py
+
+## Course Project
+
+This project was created as part of my introductory computer science coursework and was an opportunity to practice object-oriented programming, data organization, and user interaction.
